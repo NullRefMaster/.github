@@ -1,8 +1,11 @@
 ## 2D Game Development Group @ XJTU
 
 - This course is taught based on the Unity3D game engine
-- This course is offered by Prof.[Kelvin Sung (宋賢清)](https://faculty.washington.edu/ksung/)
-- You can learn more details on [XJTU-IntroGameDev-2024](https://myuwbclasses.github.io/XJTU-IntroGameDev/)
+- This course is lead by Prof.[Kelvin Sung (宋賢清)](https://faculty.washington.edu/ksung/)
+
+<a href="https://github.com/NullRefMaster/Suicide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NullRefMaster/Suicide" />
+</a>
 
 <!--
 
