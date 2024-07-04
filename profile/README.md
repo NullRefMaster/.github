@@ -1,19 +1,8 @@
-## Hi there 👋
+## 2D Game Development Group @ XJTU
 
-You can customize your organization's Overview page to show a README and pinned repositories dedicated to public users or members of the organization.
-
-Members of your organization who are signed into GitHub, can select a member or public view of the README and pinned repositories when they visit your organization's profile page.
-
-The view defaults to member if either a members-only README or members-only pinned repositories are present, and public otherwise.
-
-Users who are not members of your organization will be shown a public view.
-
-The content of public README.md will appear on your organization's public profile.
-
-- If your organization does not already have a public .github repository, create a public .github repository.
-- In your organization's .github repository, create a README.md file in the profile folder.
-- Commit the changes to the README.md file.
-
+- This course is taught based on the Unity3D game engine
+- This course is offered by Prof.[Kelvin Sung (宋賢清)](https://faculty.washington.edu/ksung/)
+- You can learn more details on [XJTU-IntroGameDev-2024](https://myuwbclasses.github.io/XJTU-IntroGameDev/)
 
 <!--
 
